@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:week_no;datatype:string,name:reg_no;datatype:string,name:day;datatype:string,name:date;datatype:date,name:time_in;datatype:time,name:workdone;datatype:string,name:time_out;datatype:time,name:siwes_coordinator_comment;datatype:string,name:unversity_supervisor_comment;datatype:string" />
+</info>

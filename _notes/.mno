@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControl" value="incorrect username or password" />
+	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
+</info>
